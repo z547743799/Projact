@@ -1,0 +1,13 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/ddliu/go-httpclient",
+			"repository": "https://github.com/ddliu/go-httpclient",
+			"vcs": "git",
+			"revision": "0b273c8df01759f246fe5eaf9a672c6565eb9e4e",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
