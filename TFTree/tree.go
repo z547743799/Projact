@@ -1,9 +1,9 @@
 package main
 
 import (
+	"fmt"
 	"github.com/cheekybits/genny/generic"
 	"sync"
-	"fmt"
 )
 
 // Item interface{}
@@ -11,18 +11,17 @@ type Item generic.Type
 
 // 节点结构体
 type Node struct {
-	key   int  //key,根据key进行节点插入
-	value Item //Item interface{}
+	key   int   //key,根据key进行节点插入
+	value Item  //Item interface{}
 	left  *Node //left
 	right *Node //right
 }
 
 // 二叉树结构体
 type ItemBinarySearchTree struct {
-	root *Node  // 根节点
-	lock sync.RWMutex  //读写锁
+	root *Node        // 根节点
+	lock sync.RWMutex //读写锁
 }
-
 
 /*
 
@@ -96,7 +95,7 @@ func insertNode(node, newNode *Node) {
 
 		if node.left == nil {
 			node.left = newNode
-		}else {
+		} else {
 			// 通过递归插入新节点到左边
 			insertNode(node.left, newNode)
 		}
@@ -104,9 +103,9 @@ func insertNode(node, newNode *Node) {
 	} else {
 		if node.right == nil {
 			node.right = newNode
-		}else {
+		} else {
 			// 通过递归插入新节点到右边
-			insertNode(node.right,newNode)
+			insertNode(node.right, newNode)
 		}
 
 	}
@@ -157,7 +156,6 @@ func (tree *ItemBinarySearchTree) Max() *Item {
 		node = node.right
 	}
 }
-
 
 // 传入某个key，查询这个key是否存在于二叉树中
 func (tree *ItemBinarySearchTree) Search(key int) bool {
@@ -215,12 +213,11 @@ func (bst *ItemBinarySearchTree) InOrderTraverse(f func(Item)) {
 
 func inOrderTraverse(n *Node, f func(Item)) {
 	if n != nil {
-		inOrderTraverse(n.left, f) // L
-		f(n.value) // D
+		inOrderTraverse(n.left, f)  // L
+		f(n.value)                  // D
 		inOrderTraverse(n.right, f) // R
 	}
 }
-
 
 // 后序遍历
 func (bst *ItemBinarySearchTree) postOrderTraverse(f func(Item)) {
@@ -232,12 +229,11 @@ func (bst *ItemBinarySearchTree) postOrderTraverse(f func(Item)) {
 
 func postOrderTraverse(n *Node, f func(Item)) {
 	if n != nil {
-		postOrderTraverse(n.left, f) // L
+		postOrderTraverse(n.left, f)  // L
 		postOrderTraverse(n.right, f) // R
-		f(n.value) // D
+		f(n.value)                    // D
 	}
 }
-
 
 // 前序遍历
 func (bst *ItemBinarySearchTree) preOrderTraverse(f func(Item)) {
@@ -249,13 +245,13 @@ func (bst *ItemBinarySearchTree) preOrderTraverse(f func(Item)) {
 
 func preOrderTraverse(n *Node, f func(Item)) {
 	if n != nil {
-		f(n.value) // D
-		preOrderTraverse(n.left, f) // L
+		f(n.value)                   // D
+		preOrderTraverse(n.left, f)  // L
 		preOrderTraverse(n.right, f) // R
 	}
 }
 
-func main()  {
+func main() {
 	// 创建二叉搜索树对象
 	// 0xc4200a4020
 	var tree ItemBinarySearchTree
@@ -277,8 +273,8 @@ func main()  {
 
 	tree.String()
 
-	fmt.Printf("二叉树key最小的节点的value值：%v\n",*tree.Min())
-	fmt.Printf("二叉树key最大的节点的value值：%v\n",*tree.Max())
+	fmt.Printf("二叉树key最小的节点的value值：%v\n", *tree.Min())
+	fmt.Printf("二叉树key最大的节点的value值：%v\n", *tree.Max())
 
 	fmt.Println(tree.Search(13))
 
@@ -292,6 +288,4 @@ func main()  {
 	fmt.Println("---------------后序遍历--------------------")
 	tree.postOrderTraverse(f)
 
-
 }
-

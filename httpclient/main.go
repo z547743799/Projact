@@ -27,7 +27,6 @@ func main() {
 	//rs,_:=httpclient.Get("http://httpbin.org/get", map[string]string{
 	//	"q": "news",
 	//})
-  //fmt.Println(rs.ToString())
-
+	//fmt.Println(rs.ToString())
 
 }
