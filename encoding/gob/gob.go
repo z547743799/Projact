@@ -28,6 +28,7 @@ func GobEncodeDecode() {
 		log.Fatal("encode error:", err)
 	}
 	fmt.Println(buf.Bytes())
+	fmt.Println(m1)
 
 	var m2 Message2
 	if err := dec.Decode(&m2); err != nil {
