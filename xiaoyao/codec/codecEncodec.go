@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Project/xiaoyao/codec/code"
+	"code"
 	"fmt"
 	"reflect"
 	"time"
