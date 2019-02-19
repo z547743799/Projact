@@ -1,4 +1,4 @@
-package main
+package stdin
 
 import (
 	"bufio"
@@ -6,10 +6,11 @@ import (
 	"os"
 )
 
-func main() {
-
+func Stdin1() {
+	//读取输入
 	reader := bufio.NewReader(os.Stdin)
 
+	//将输入转化为string
 	result, err := reader.ReadString('\n')
 	if err != nil {
 
@@ -17,5 +18,4 @@ func main() {
 	}
 
 	fmt.Println("result:", result)
-
 }

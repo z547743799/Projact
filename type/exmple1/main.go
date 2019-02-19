@@ -18,6 +18,8 @@ type slice []int
 
 type inter interface{}
 
+type m map[channle]int
+
 func main() {
 	a := map[string]int{"go": 1}
 	abba(nil, nil, a, nil, nil)
