@@ -1,7 +1,5 @@
 package stdin
 
-
-
 import (
 	"fmt"
 	"os"
@@ -9,6 +7,7 @@ import (
 
 func Stdin() {
 	var buffer [512]byte
+	buffer[0] = 112
 
 	n, err := os.Stdin.Read(buffer[:])
 	if err != nil {
