@@ -1,0 +1,974 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	A                         Atom = 0x1$/;"	c
+Abbr	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Abbr                      Atom = 0x4$/;"	c
+Abelive	digui/test/test.go	/^func Abelive(a string) {$/;"	f
+Accept	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Accept                    Atom = 0x1a06$/;"	c
+AcceptCharset	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	AcceptCharset             Atom = 0x1a0e$/;"	c
+Accesskey	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Accesskey                 Atom = 0x2c09$/;"	c
+Acronym	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Acronym                   Atom = 0xaa07$/;"	c
+Action	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Action                    Atom = 0x27206$/;"	c
+Add	linked_list/linked/link.go	/^func Add(ss string) {$/;"	f
+Add	moxie/linklist/link/link.go	/^func Add(s string) {$/;"	f
+Address	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Address                   Atom = 0x6f307$/;"	c
+Align	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Align                     Atom = 0xb105$/;"	c
+AllowCDATA	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) AllowCDATA(allowCDATA bool) {$/;"	f
+Allowfullscreen	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Allowfullscreen           Atom = 0x2080f$/;"	c
+Allowpaymentrequest	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Allowpaymentrequest       Atom = 0xc113$/;"	c
+Allowusermedia	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Allowusermedia            Atom = 0xdd0e$/;"	c
+Alt	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Alt                       Atom = 0xf303$/;"	c
+Animal	digui/test/polymorphic.go	/^type Animal struct {$/;"	t
+Animal	interface/polymorphic.go	/^type Animal struct {$/;"	t
+Animal	test/struct1.go	/^func (s *Student) Animal() {$/;"	f
+Annotation	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Annotation                Atom = 0x1c90a$/;"	c
+AnnotationXml	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	AnnotationXml             Atom = 0x1c90e$/;"	c
+AppendChild	roobot/vendor/golang.org/x/net/html/node.go	/^func (n *Node) AppendChild(c *Node) {$/;"	f
+Applet	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Applet                    Atom = 0x31906$/;"	c
+Area	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Area                      Atom = 0x35604$/;"	c
+Article	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Article                   Atom = 0x3fc07$/;"	c
+As	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	As                        Atom = 0x3c02$/;"	c
+Aside	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Aside                     Atom = 0x10705$/;"	c
+Async	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Async                     Atom = 0xff05$/;"	c
+Atom	roobot/vendor/golang.org/x/net/html/atom/atom.go	/^type Atom uint32$/;"	t
+Attribute	roobot/vendor/golang.org/x/net/html/token.go	/^type Attribute struct {$/;"	t
+Audio	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Audio                     Atom = 0x11505$/;"	c
+Autocomplete	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Autocomplete              Atom = 0x2780c$/;"	c
+Autofocus	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Autofocus                 Atom = 0x12109$/;"	c
+Autoplay	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Autoplay                  Atom = 0x13c08$/;"	c
+B	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	B                         Atom = 0x101$/;"	c
+Base	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Base                      Atom = 0x3b04$/;"	c
+Basefont	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Basefont                  Atom = 0x3b08$/;"	c
+Bdi	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Bdi                       Atom = 0xba03$/;"	c
+Bdo	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Bdo                       Atom = 0x14b03$/;"	c
+BeginAuthHandler	iris/example3.go	/^func BeginAuthHandler(ctx iris.Context) {$/;"	f
+Belive	digui/test/test.go	/^func Belive(ss rune) []byte {$/;"	f
+Bgsound	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Bgsound                   Atom = 0x15e07$/;"	c
+Bianli	moxie/linklist/link/link.go	/^func Bianli() {$/;"	f
+Big	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Big                       Atom = 0x17003$/;"	c
+Blink	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Blink                     Atom = 0x17305$/;"	c
+Blockquote	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Blockquote                Atom = 0x1870a$/;"	c
+Body	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Body                      Atom = 0x2804$/;"	c
+Br	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Br                        Atom = 0x202$/;"	c
+Buffered	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) Buffered() []byte {$/;"	f
+Button	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Button                    Atom = 0x19106$/;"	c
+CONNECT_TIMEOUT	httpclient/main.go	/^	CONNECT_TIMEOUT = 5$/;"	c
+Canvas	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Canvas                    Atom = 0x10306$/;"	c
+Caption	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Caption                   Atom = 0x23107$/;"	c
+Center	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Center                    Atom = 0x22006$/;"	c
+Challenge	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Challenge                 Atom = 0x29b09$/;"	c
+Charset	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Charset                   Atom = 0x2107$/;"	c
+CheckKey	redis/redispool.go	/^func CheckKey(k string) bool {$/;"	f
+Checked	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Checked                   Atom = 0x47907$/;"	c
+Cite	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Cite                      Atom = 0x19c04$/;"	c
+Class	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Class                     Atom = 0x56405$/;"	c
+Code	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Code                      Atom = 0x5c504$/;"	c
+Col	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Col                       Atom = 0x1ab03$/;"	c
+Colgroup	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Colgroup                  Atom = 0x1ab08$/;"	c
+Color	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Color                     Atom = 0x1bf05$/;"	c
+Cols	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Cols                      Atom = 0x1c404$/;"	c
+Colspan	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Colspan                   Atom = 0x1c407$/;"	c
+Command	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Command                   Atom = 0x1d707$/;"	c
+CommentNode	roobot/vendor/golang.org/x/net/html/node.go	/^	CommentNode$/;"	c
+CommentToken	roobot/vendor/golang.org/x/net/html/token.go	/^	CommentToken$/;"	c
+CompleteUserAuth	iris/example3.go	/^var CompleteUserAuth = func(ctx iris.Context) (goth.User, error) {$/;"	v
+Content	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Content                   Atom = 0x58b07$/;"	c
+Contenteditable	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Contenteditable           Atom = 0x58b0f$/;"	c
+Contextmenu	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Contextmenu               Atom = 0x3800b$/;"	c
+Controls	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Controls                  Atom = 0x1de08$/;"	c
+Coords	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Coords                    Atom = 0x1ea06$/;"	c
+Crossorigin	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Crossorigin               Atom = 0x1fb0b$/;"	c
+DB	xiaoyao/mine_test/mod/mod.go	/^	DB   IDBMod$/;"	v
+Data	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Data                      Atom = 0x4a504$/;"	c
+Datalist	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Datalist                  Atom = 0x4a508$/;"	c
+Datetime	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Datetime                  Atom = 0x2b808$/;"	c
+DbMod	xiaoyao/mine_test/mod/db/db.go	/^type DbMod struct {$/;"	t
+Dd	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Dd                        Atom = 0x2d702$/;"	c
+Decoder	xiaoyao/codec/code/codec.go	/^func Decoder(data []byte, v interface{}) error {$/;"	f
+Decoder	xiaoyao/map/structmapDecoder.go	/^func Decoder(data []byte, v interface{}) error {$/;"	f
+Default	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Default                   Atom = 0x10a07$/;"	c
+Defer	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Defer                     Atom = 0x5c705$/;"	c
+Del	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Del                       Atom = 0x45203$/;"	c
+DelKey	redis/redispool.go	/^func DelKey(k string) error {$/;"	f
+Desc	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Desc                      Atom = 0x56104$/;"	c
+Details	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Details                   Atom = 0x7207$/;"	c
+Dfn	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Dfn                       Atom = 0x8703$/;"	c
+Dialog	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Dialog                    Atom = 0xbb06$/;"	c
+Dir	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Dir                       Atom = 0x9303$/;"	c
+Dirname	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Dirname                   Atom = 0x9307$/;"	c
+Disabled	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Disabled                  Atom = 0x16408$/;"	c
+Div	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Div                       Atom = 0x16b03$/;"	c
+Dl	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Dl                        Atom = 0x5e602$/;"	c
+DoctypeNode	roobot/vendor/golang.org/x/net/html/node.go	/^	DoctypeNode$/;"	c
+DoctypeToken	roobot/vendor/golang.org/x/net/html/token.go	/^	DoctypeToken$/;"	c
+DocumentNode	roobot/vendor/golang.org/x/net/html/node.go	/^	DocumentNode$/;"	c
+Download	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Download                  Atom = 0x46308$/;"	c
+Draggable	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Draggable                 Atom = 0x17a09$/;"	c
+Dropzone	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Dropzone                  Atom = 0x40508$/;"	c
+Dt	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Dt                        Atom = 0x64b02$/;"	c
+ElementNode	roobot/vendor/golang.org/x/net/html/node.go	/^	ElementNode$/;"	c
+Em	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Em                        Atom = 0x6e02$/;"	c
+Embed	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Embed                     Atom = 0x6e05$/;"	c
+Employee	Elasticsearch/main.go	/^type Employee struct {$/;"	t
+Encode	xiaoyao/codec/code/codec.go	/^func Encode(obj interface{}) ([]byte, error) {$/;"	f
+Encode	xiaoyao/map/structmap.go	/^func Encode(obj interface{}) ([]byte, error) {$/;"	f
+Enctype	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Enctype                   Atom = 0x28d07$/;"	c
+EndTagToken	roobot/vendor/golang.org/x/net/html/token.go	/^	EndTagToken$/;"	c
+Ergodic	linked_list/linked/link.go	/^func Ergodic() {$/;"	f
+Err	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) Err() error {$/;"	f
+ErrBufferExceeded	roobot/vendor/golang.org/x/net/html/token.go	/^var ErrBufferExceeded = errors.New("max buffer exceeded")$/;"	v
+ErrorNode	roobot/vendor/golang.org/x/net/html/node.go	/^	ErrorNode NodeType = iota$/;"	c
+ErrorToken	roobot/vendor/golang.org/x/net/html/token.go	/^	ErrorToken TokenType = iota$/;"	c
+EscapeString	roobot/vendor/golang.org/x/net/html/escape.go	/^func EscapeString(s string) string {$/;"	f
+Extract	roobot/links/links.go	/^func Extract(url string) ([]string, error) {$/;"	f
+Face	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Face                      Atom = 0x21e04$/;"	c
+Fieldset	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Fieldset                  Atom = 0x22608$/;"	c
+Figcaption	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Figcaption                Atom = 0x22e0a$/;"	c
+Figure	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Figure                    Atom = 0x24806$/;"	c
+Font	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Font                      Atom = 0x3f04$/;"	c
+Footer	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Footer                    Atom = 0xf606$/;"	c
+For	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	For                       Atom = 0x25403$/;"	c
+ForeignObject	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	ForeignObject             Atom = 0x2540d$/;"	c
+Foreignobject	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Foreignobject             Atom = 0x2610d$/;"	c
+Form	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Form                      Atom = 0x26e04$/;"	c
+Formaction	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Formaction                Atom = 0x26e0a$/;"	c
+Formenctype	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Formenctype               Atom = 0x2890b$/;"	c
+Formmethod	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Formmethod                Atom = 0x2a40a$/;"	c
+Formnovalidate	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Formnovalidate            Atom = 0x2ae0e$/;"	c
+Formtarget	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Formtarget                Atom = 0x2c00a$/;"	c
+Frame	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Frame                     Atom = 0x8b05$/;"	c
+Frameset	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Frameset                  Atom = 0x8b08$/;"	c
+GetAuthURL	iris/example3.go	/^func GetAuthURL(ctx iris.Context) (string, error) {$/;"	f
+GetMinerConfig	xiaoyao/mine_test/mod/db/mine_db.go	/^func (this *DbMod) GetMinerConfig() map[int64]*data.TMineConfig {$/;"	f
+GetMinerConfig	xiaoyao/mine_test/mod/mine/mine_mod.go	/^func (this *mineMod) GetMinerConfig() {$/;"	f
+GetProviderName	iris/example3.go	/^var GetProviderName = func(ctx iris.Context) (string, error) {$/;"	v
+GetState	iris/example3.go	/^var GetState = func(ctx iris.Context) string {$/;"	v
+GobEncodeDecode	encoding/gob/gob.go	/^func GobEncodeDecode() {$/;"	f
+H1	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	H1                        Atom = 0x15c02$/;"	c
+H2	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	H2                        Atom = 0x2de02$/;"	c
+H3	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	H3                        Atom = 0x30d02$/;"	c
+H4	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	H4                        Atom = 0x34502$/;"	c
+H5	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	H5                        Atom = 0x34f02$/;"	c
+H6	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	H6                        Atom = 0x64d02$/;"	c
+Head	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Head                      Atom = 0x33104$/;"	c
+Header	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Header                    Atom = 0x33106$/;"	c
+Headers	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Headers                   Atom = 0x33107$/;"	c
+Height	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Height                    Atom = 0x5206$/;"	c
+Hgroup	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Hgroup                    Atom = 0x2ca06$/;"	c
+Hidden	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Hidden                    Atom = 0x2d506$/;"	c
+High	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	High                      Atom = 0x2db04$/;"	c
+Hr	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Hr                        Atom = 0x15702$/;"	c
+Href	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Href                      Atom = 0x2e004$/;"	c
+Hreflang	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Hreflang                  Atom = 0x2e008$/;"	c
+Html	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Html                      Atom = 0x5604$/;"	c
+HttpEquiv	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	HttpEquiv                 Atom = 0x2e80a$/;"	c
+I	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	I                         Atom = 0x601$/;"	c
+IDBMod	xiaoyao/mine_test/mod/interfs.go	/^	IDBMod interface {$/;"	t
+IMine	xiaoyao/mine_test/mod/interfs.go	/^	IMine interface {$/;"	t
+Icon	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Icon                      Atom = 0x58a04$/;"	c
+Id	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Id                        Atom = 0x10902$/;"	c
+Iframe	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Iframe                    Atom = 0x2fc06$/;"	c
+Image	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Image                     Atom = 0x30205$/;"	c
+Img	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Img                       Atom = 0x30703$/;"	c
+InOrderTraverse	TFTree/tree.go	/^func (bst *ItemBinarySearchTree) InOrderTraverse(f func(Item)) {$/;"	f
+Input	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Input                     Atom = 0x44b05$/;"	c
+Inputmode	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Inputmode                 Atom = 0x44b09$/;"	c
+Ins	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ins                       Atom = 0x20403$/;"	c
+Insert	TFTree/tree.go	/^func (tree *ItemBinarySearchTree) Insert(key int, value Item) {$/;"	f
+InsertBefore	roobot/vendor/golang.org/x/net/html/node.go	/^func (n *Node) InsertBefore(newChild, oldChild *Node) {$/;"	f
+Integrity	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Integrity                 Atom = 0x23f09$/;"	c
+IpcNewMail	constant/constant.go	/^	IpcNewMail$/;"	c
+Is	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Is                        Atom = 0x16502$/;"	c
+Isindex	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Isindex                   Atom = 0x30f07$/;"	c
+Ismap	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ismap                     Atom = 0x31605$/;"	c
+Item	TFTree/tree.go	/^type Item generic.Type$/;"	t
+ItemBinarySearchTree	TFTree/tree.go	/^type ItemBinarySearchTree struct {$/;"	t
+Itemid	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Itemid                    Atom = 0x38b06$/;"	c
+Itemprop	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Itemprop                  Atom = 0x19d08$/;"	c
+Itemref	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Itemref                   Atom = 0x3cd07$/;"	c
+Itemscope	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Itemscope                 Atom = 0x67109$/;"	c
+Itemtype	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Itemtype                  Atom = 0x31f08$/;"	c
+Kbd	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Kbd                       Atom = 0xb903$/;"	c
+Keygen	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Keygen                    Atom = 0x3206$/;"	c
+Keytype	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Keytype                   Atom = 0xd607$/;"	c
+Kind	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Kind                      Atom = 0x17704$/;"	c
+Label	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Label                     Atom = 0x5905$/;"	c
+Lang	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Lang                      Atom = 0x2e404$/;"	c
+Legend	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Legend                    Atom = 0x18106$/;"	c
+Len	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^func (x byLen) Len() int           { return len(x) }$/;"	f
+Less	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^func (x byLen) Less(i, j int) bool { return len(x[i]) > len(x[j]) }$/;"	f
+Li	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Li                        Atom = 0xb202$/;"	c
+Link	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Link                      Atom = 0x17404$/;"	c
+List	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	List                      Atom = 0x4a904$/;"	c
+Listing	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Listing                   Atom = 0x4a907$/;"	c
+Logout	iris/example3.go	/^func Logout(ctx iris.Context) error {$/;"	f
+Look	digui/test/test.go	/^func (s *Robot) Look() {$/;"	f
+Lookup	roobot/vendor/golang.org/x/net/html/atom/atom.go	/^func Lookup(s []byte) Atom {$/;"	f
+Loop	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Loop                      Atom = 0x5d04$/;"	c
+Low	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Low                       Atom = 0xc303$/;"	c
+Main	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Main                      Atom = 0x1004$/;"	c
+Malignmark	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Malignmark                Atom = 0xb00a$/;"	c
+Manifest	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Manifest                  Atom = 0x6d708$/;"	c
+Map	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Map                       Atom = 0x31803$/;"	c
+Mark	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Mark                      Atom = 0xb604$/;"	c
+Marquee	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Marquee                   Atom = 0x32707$/;"	c
+Math	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Math                      Atom = 0x32e04$/;"	c
+Max	TFTree/tree.go	/^func (tree *ItemBinarySearchTree) Max() *Item {$/;"	f
+Max	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Max                       Atom = 0x33d03$/;"	c
+Maxlength	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Maxlength                 Atom = 0x33d09$/;"	c
+Media	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Media                     Atom = 0xe605$/;"	c
+Mediagroup	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Mediagroup                Atom = 0xe60a$/;"	c
+Menu	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Menu                      Atom = 0x38704$/;"	c
+Menuitem	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Menuitem                  Atom = 0x38708$/;"	c
+Message2	encoding/gob/gob.go	/^type Message2 struct {$/;"	t
+Message2	xiaoyao/codec/codeDecoder.go	/^type Message2 struct {$/;"	t
+Message2	xiaoyao/codec/codecEncodec.go	/^type Message2 struct {$/;"	t
+Meta	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Meta                      Atom = 0x4b804$/;"	c
+Meter	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Meter                     Atom = 0x9805$/;"	c
+Method	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Method                    Atom = 0x2a806$/;"	c
+Mglyph	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Mglyph                    Atom = 0x30806$/;"	c
+Mi	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Mi                        Atom = 0x34702$/;"	c
+Min	TFTree/tree.go	/^func (tree *ItemBinarySearchTree) Min() *Item {$/;"	f
+Min	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Min                       Atom = 0x34703$/;"	c
+Mine	xiaoyao/mine_test/mod/mod.go	/^	Mine IMine$/;"	v
+Minlength	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Minlength                 Atom = 0x34709$/;"	c
+Mn	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Mn                        Atom = 0x2b102$/;"	c
+Mo	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Mo                        Atom = 0xa402$/;"	c
+Ms	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ms                        Atom = 0x67402$/;"	c
+Mtext	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Mtext                     Atom = 0x35105$/;"	c
+Multiple	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Multiple                  Atom = 0x35f08$/;"	c
+Muted	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Muted                     Atom = 0x36705$/;"	c
+Name	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Name                      Atom = 0x9604$/;"	c
+Nav	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Nav                       Atom = 0x1303$/;"	c
+NewRedisPool	redis/redispool.go	/^func NewRedisPool(redisURL string) *redis.Pool {$/;"	f
+NewTokenizer	roobot/vendor/golang.org/x/net/html/token.go	/^func NewTokenizer(r io.Reader) *Tokenizer {$/;"	f
+NewTokenizerFragment	roobot/vendor/golang.org/x/net/html/token.go	/^func NewTokenizerFragment(r io.Reader, contextTag string) *Tokenizer {$/;"	f
+Next	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) Next() TokenType {$/;"	f
+NextIsNotRawText	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) NextIsNotRawText() {$/;"	f
+Nobr	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Nobr                      Atom = 0x3704$/;"	c
+Node	TFTree/tree.go	/^type Node struct {$/;"	t
+Node	roobot/vendor/golang.org/x/net/html/node.go	/^type Node struct {$/;"	t
+NodeType	roobot/vendor/golang.org/x/net/html/node.go	/^type NodeType uint32$/;"	t
+Noembed	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Noembed                   Atom = 0x6c07$/;"	c
+Noframes	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Noframes                  Atom = 0x8908$/;"	c
+Nomodule	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Nomodule                  Atom = 0xa208$/;"	c
+Nonce	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Nonce                     Atom = 0x1a605$/;"	c
+Noscript	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Noscript                  Atom = 0x21608$/;"	c
+Novalidate	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Novalidate                Atom = 0x2b20a$/;"	c
+Object	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Object                    Atom = 0x26806$/;"	c
+Ol	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ol                        Atom = 0x13702$/;"	c
+Onabort	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onabort                   Atom = 0x19507$/;"	c
+Onafterprint	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onafterprint              Atom = 0x2360c$/;"	c
+Onautocomplete	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onautocomplete            Atom = 0x2760e$/;"	c
+Onautocompleteerror	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onautocompleteerror       Atom = 0x27613$/;"	c
+Onauxclick	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onauxclick                Atom = 0x61f0a$/;"	c
+Onbeforeprint	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onbeforeprint             Atom = 0x69e0d$/;"	c
+Onbeforeunload	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onbeforeunload            Atom = 0x6e70e$/;"	c
+Onblur	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onblur                    Atom = 0x56d06$/;"	c
+Oncancel	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Oncancel                  Atom = 0x11908$/;"	c
+Oncanplay	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Oncanplay                 Atom = 0x14d09$/;"	c
+Oncanplaythrough	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Oncanplaythrough          Atom = 0x14d10$/;"	c
+Onchange	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onchange                  Atom = 0x41b08$/;"	c
+Onclick	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onclick                   Atom = 0x2f507$/;"	c
+Onclose	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onclose                   Atom = 0x36c07$/;"	c
+Oncontextmenu	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Oncontextmenu             Atom = 0x37e0d$/;"	c
+Oncopy	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Oncopy                    Atom = 0x39106$/;"	c
+Oncuechange	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Oncuechange               Atom = 0x3970b$/;"	c
+Oncut	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Oncut                     Atom = 0x3a205$/;"	c
+Ondblclick	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ondblclick                Atom = 0x3a70a$/;"	c
+Ondrag	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ondrag                    Atom = 0x3b106$/;"	c
+Ondragend	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ondragend                 Atom = 0x3b109$/;"	c
+Ondragenter	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ondragenter               Atom = 0x3ba0b$/;"	c
+Ondragexit	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ondragexit                Atom = 0x3c50a$/;"	c
+Ondragleave	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ondragleave               Atom = 0x3df0b$/;"	c
+Ondragover	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ondragover                Atom = 0x3ea0a$/;"	c
+Ondragstart	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ondragstart               Atom = 0x3f40b$/;"	c
+Ondrop	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ondrop                    Atom = 0x40306$/;"	c
+Ondurationchange	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ondurationchange          Atom = 0x41310$/;"	c
+Onemptied	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onemptied                 Atom = 0x40a09$/;"	c
+Onended	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onended                   Atom = 0x42307$/;"	c
+Onerror	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onerror                   Atom = 0x42a07$/;"	c
+Onfocus	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onfocus                   Atom = 0x43107$/;"	c
+Onhashchange	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onhashchange              Atom = 0x43d0c$/;"	c
+Oninput	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Oninput                   Atom = 0x44907$/;"	c
+Oninvalid	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Oninvalid                 Atom = 0x45509$/;"	c
+Onkeydown	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onkeydown                 Atom = 0x45e09$/;"	c
+Onkeypress	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onkeypress                Atom = 0x46b0a$/;"	c
+Onkeyup	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onkeyup                   Atom = 0x48007$/;"	c
+Onlanguagechange	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onlanguagechange          Atom = 0x48d10$/;"	c
+Onload	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onload                    Atom = 0x49d06$/;"	c
+Onloadeddata	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onloadeddata              Atom = 0x49d0c$/;"	c
+Onloadedmetadata	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onloadedmetadata          Atom = 0x4b010$/;"	c
+Onloadend	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onloadend                 Atom = 0x4c609$/;"	c
+Onloadstart	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onloadstart               Atom = 0x4cf0b$/;"	c
+Onmessage	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onmessage                 Atom = 0x4da09$/;"	c
+Onmessageerror	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onmessageerror            Atom = 0x4da0e$/;"	c
+Onmousedown	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onmousedown               Atom = 0x4e80b$/;"	c
+Onmouseenter	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onmouseenter              Atom = 0x4f30c$/;"	c
+Onmouseleave	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onmouseleave              Atom = 0x4ff0c$/;"	c
+Onmousemove	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onmousemove               Atom = 0x50b0b$/;"	c
+Onmouseout	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onmouseout                Atom = 0x5160a$/;"	c
+Onmouseover	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onmouseover               Atom = 0x5230b$/;"	c
+Onmouseup	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onmouseup                 Atom = 0x52e09$/;"	c
+Onmousewheel	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onmousewheel              Atom = 0x53c0c$/;"	c
+Onoffline	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onoffline                 Atom = 0x54809$/;"	c
+Ononline	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ononline                  Atom = 0x55108$/;"	c
+Onpagehide	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onpagehide                Atom = 0x5590a$/;"	c
+Onpageshow	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onpageshow                Atom = 0x5730a$/;"	c
+Onpaste	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onpaste                   Atom = 0x57f07$/;"	c
+Onpause	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onpause                   Atom = 0x59a07$/;"	c
+Onplay	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onplay                    Atom = 0x5a406$/;"	c
+Onplaying	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onplaying                 Atom = 0x5a409$/;"	c
+Onpopstate	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onpopstate                Atom = 0x5ad0a$/;"	c
+Onprogress	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onprogress                Atom = 0x5b70a$/;"	c
+Onratechange	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onratechange              Atom = 0x5cc0c$/;"	c
+Onrejectionhandled	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onrejectionhandled        Atom = 0x5d812$/;"	c
+Onreset	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onreset                   Atom = 0x5ea07$/;"	c
+Onresize	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onresize                  Atom = 0x5f108$/;"	c
+Onscroll	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onscroll                  Atom = 0x60008$/;"	c
+Onsecuritypolicyviolation	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onsecuritypolicyviolation Atom = 0x60819$/;"	c
+Onseeked	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onseeked                  Atom = 0x62908$/;"	c
+Onseeking	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onseeking                 Atom = 0x63109$/;"	c
+Onselect	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onselect                  Atom = 0x63a08$/;"	c
+Onshow	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onshow                    Atom = 0x64406$/;"	c
+Onsort	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onsort                    Atom = 0x64f06$/;"	c
+Onstalled	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onstalled                 Atom = 0x65909$/;"	c
+Onstorage	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onstorage                 Atom = 0x66209$/;"	c
+Onsubmit	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onsubmit                  Atom = 0x66b08$/;"	c
+Onsuspend	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onsuspend                 Atom = 0x67b09$/;"	c
+Ontimeupdate	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ontimeupdate              Atom = 0x400c$/;"	c
+Ontoggle	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ontoggle                  Atom = 0x68408$/;"	c
+Onunhandledrejection	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onunhandledrejection      Atom = 0x68c14$/;"	c
+Onunload	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onunload                  Atom = 0x6ab08$/;"	c
+Onvolumechange	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onvolumechange            Atom = 0x6b30e$/;"	c
+Onwaiting	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onwaiting                 Atom = 0x6c109$/;"	c
+Onwheel	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Onwheel                   Atom = 0x6ca07$/;"	c
+Open	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Open                      Atom = 0x1a304$/;"	c
+Optgroup	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Optgroup                  Atom = 0x5f08$/;"	c
+Optimum	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Optimum                   Atom = 0x6d107$/;"	c
+Option	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Option                    Atom = 0x6e306$/;"	c
+Output	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Output                    Atom = 0x51d06$/;"	c
+P	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	P                         Atom = 0xc01$/;"	c
+Param	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Param                     Atom = 0xc05$/;"	c
+Parse	roobot/vendor/golang.org/x/net/html/parse.go	/^func Parse(r io.Reader) (*Node, error) {$/;"	f
+ParseFragment	roobot/vendor/golang.org/x/net/html/parse.go	/^func ParseFragment(r io.Reader, context *Node) ([]*Node, error) {$/;"	f
+Pattern	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Pattern                   Atom = 0x6607$/;"	c
+Person5	test/struct1.go	/^type Person5 struct {$/;"	t
+Picture	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Picture                   Atom = 0x7b07$/;"	c
+Ping	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ping                      Atom = 0xef04$/;"	c
+Placeholder	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Placeholder               Atom = 0x1310b$/;"	c
+Plaintext	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Plaintext                 Atom = 0x1b209$/;"	c
+Playsinline	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Playsinline               Atom = 0x1400b$/;"	c
+Poster	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Poster                    Atom = 0x2cf06$/;"	c
+Pre	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Pre                       Atom = 0x47003$/;"	c
+Preload	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Preload                   Atom = 0x48607$/;"	c
+Progress	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Progress                  Atom = 0x5b908$/;"	c
+Prompt	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Prompt                    Atom = 0x53606$/;"	c
+ProviderIndex	iris/example3.go	/^type ProviderIndex struct {$/;"	t
+Public	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Public                    Atom = 0x58606$/;"	c
+Q	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Q                         Atom = 0xcf01$/;"	c
+Radiogroup	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Radiogroup                Atom = 0x30a$/;"	c
+Raw	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) Raw() []byte {$/;"	f
+Rb	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Rb                        Atom = 0x3a02$/;"	c
+Readonly	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Readonly                  Atom = 0x35708$/;"	c
+RedisPassword	redis/redispool.go	/^	RedisPassword       = ""$/;"	c
+RedisURL	redis/redispool.go	/^	RedisURL            = "redis:\/\/127.0.0.1:6379"$/;"	c
+Referrerpolicy	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Referrerpolicy            Atom = 0x3d10e$/;"	c
+Rel	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Rel                       Atom = 0x48703$/;"	c
+RemoveChild	roobot/vendor/golang.org/x/net/html/node.go	/^func (n *Node) RemoveChild(c *Node) {$/;"	f
+Render	roobot/vendor/golang.org/x/net/html/render.go	/^func Render(w io.Writer, n *Node) error {$/;"	f
+Required	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Required                  Atom = 0x24c08$/;"	c
+Reversed	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Reversed                  Atom = 0x8008$/;"	c
+Robot	digui/test/test.go	/^type Robot struct {$/;"	t
+Rows	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Rows                      Atom = 0x9c04$/;"	c
+Rowspan	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Rowspan                   Atom = 0x9c07$/;"	c
+Rp	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Rp                        Atom = 0x23c02$/;"	c
+Rt	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Rt                        Atom = 0x19a02$/;"	c
+Rtc	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Rtc                       Atom = 0x19a03$/;"	c
+Ruby	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ruby                      Atom = 0xfb04$/;"	c
+Run	digui/test/polymorphic.go	/^type Run interface {$/;"	t
+Run	interface/polymorphic.go	/^type Run interface {$/;"	t
+Runner	digui/test/polymorphic.go	/^type Runner struct {$/;"	t
+Runner	interface/polymorphic.go	/^type Runner struct {$/;"	t
+S	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	S                         Atom = 0x2501$/;"	c
+SERVER	httpclient/main.go	/^	SERVER          = "https:\/\/github.com"$/;"	c
+Samp	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Samp                      Atom = 0x7804$/;"	c
+Sandbox	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Sandbox                   Atom = 0x12907$/;"	c
+Scope	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Scope                     Atom = 0x67505$/;"	c
+Scoped	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Scoped                    Atom = 0x67506$/;"	c
+Script	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Script                    Atom = 0x21806$/;"	c
+Seamless	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Seamless                  Atom = 0x37108$/;"	c
+Search	TFTree/tree.go	/^func (tree *ItemBinarySearchTree) Search(key int) bool {$/;"	f
+Section	moxie/main.go	/^var Section = []int{12, 53, 65, 34}$/;"	v
+Section	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Section                   Atom = 0x56807$/;"	c
+Select	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Select                    Atom = 0x63c06$/;"	c
+Selected	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Selected                  Atom = 0x63c08$/;"	c
+SelfClosingTagToken	roobot/vendor/golang.org/x/net/html/token.go	/^	SelfClosingTagToken$/;"	c
+SetJson	redis/redispool.go	/^func SetJson(k string, data interface{}) error {$/;"	f
+SetKeyExpire	redis/redispool.go	/^func SetKeyExpire(k string, ex int) {$/;"	f
+SetMaxBuf	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) SetMaxBuf(n int) {$/;"	f
+SetState	iris/example3.go	/^var SetState = func(ctx iris.Context) string {$/;"	v
+Shape	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Shape                     Atom = 0x1e505$/;"	c
+Size	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Size                      Atom = 0x5f504$/;"	c
+Sizes	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Sizes                     Atom = 0x5f505$/;"	c
+Slot	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Slot                      Atom = 0x1ef04$/;"	c
+Small	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Small                     Atom = 0x20605$/;"	c
+Sortable	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Sortable                  Atom = 0x65108$/;"	c
+Sorted	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Sorted                    Atom = 0x33706$/;"	c
+Source	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Source                    Atom = 0x37806$/;"	c
+Spacer	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Spacer                    Atom = 0x43706$/;"	c
+Span	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Span                      Atom = 0x9f04$/;"	c
+Speak	digui/test/test.go	/^func (s *Robot) Speak() {$/;"	f
+Spellcheck	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Spellcheck                Atom = 0x4740a$/;"	c
+Src	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Src                       Atom = 0x5c003$/;"	c
+Srcdoc	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Srcdoc                    Atom = 0x5c006$/;"	c
+Srclang	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Srclang                   Atom = 0x5f907$/;"	c
+Srcset	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Srcset                    Atom = 0x6f906$/;"	c
+Ss	xiaoyao/map/structmapDecoder.go	/^type Ss struct {$/;"	t
+Start	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Start                     Atom = 0x3fa05$/;"	c
+StartTagToken	roobot/vendor/golang.org/x/net/html/token.go	/^	StartTagToken$/;"	c
+Stdin	os/stdin/stdin.go	/^func Stdin() {$/;"	f
+Stdin1	os/stdin/stdin1.go	/^func Stdin1() {$/;"	f
+Step	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Step                      Atom = 0x58304$/;"	c
+Strike	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Strike                    Atom = 0xd206$/;"	c
+String	TFTree/tree.go	/^func (tree *ItemBinarySearchTree) String() {$/;"	f
+String	roobot/vendor/golang.org/x/net/html/atom/atom.go	/^func (a Atom) String() string {$/;"	f
+String	roobot/vendor/golang.org/x/net/html/atom/atom.go	/^func String(s []byte) string {$/;"	f
+String	roobot/vendor/golang.org/x/net/html/token.go	/^func (t Token) String() string {$/;"	f
+String	roobot/vendor/golang.org/x/net/html/token.go	/^func (t TokenType) String() string {$/;"	f
+StringVar	xiaoyao/flag/stringvar.go	/^var StringVar string$/;"	v
+Strong	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Strong                    Atom = 0x6dd06$/;"	c
+Student	test/struct1.go	/^type Student struct {$/;"	t
+Style	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Style                     Atom = 0x6ff05$/;"	c
+Sub	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Sub                       Atom = 0x66d03$/;"	c
+Summary	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Summary                   Atom = 0x70407$/;"	c
+Sup	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Sup                       Atom = 0x70b03$/;"	c
+Svg	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Svg                       Atom = 0x70e03$/;"	c
+Swap	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^func (x byLen) Swap(i, j int)      { x[i], x[j] = x[j], x[i] }$/;"	f
+System	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	System                    Atom = 0x71106$/;"	c
+TIMEOUT	httpclient/main.go	/^	TIMEOUT         = 30$/;"	c
+TMineCaveConfig	xiaoyao/mine_test/data/mine_date.go	/^type TMineCaveConfig struct {$/;"	t
+Tabindex	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Tabindex                  Atom = 0x4be08$/;"	c
+Table	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Table                     Atom = 0x59505$/;"	c
+TagAttr	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) TagAttr() (key, val []byte, moreAttr bool) {$/;"	f
+TagName	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) TagName() (name []byte, hasAttr bool) {$/;"	f
+Target	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Target                    Atom = 0x2c406$/;"	c
+Tbody	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Tbody                     Atom = 0x2705$/;"	c
+Td	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Td                        Atom = 0x9202$/;"	c
+Template	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Template                  Atom = 0x71408$/;"	c
+Test	xiaoyao/csv4g/csv.go	/^type Test struct {$/;"	t
+Text	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) Text() []byte {$/;"	f
+TextNode	roobot/vendor/golang.org/x/net/html/node.go	/^	TextNode$/;"	c
+TextToken	roobot/vendor/golang.org/x/net/html/token.go	/^	TextToken$/;"	c
+Textarea	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Textarea                  Atom = 0x35208$/;"	c
+Tfoot	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Tfoot                     Atom = 0xf505$/;"	c
+Th	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Th                        Atom = 0x15602$/;"	c
+Thead	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Thead                     Atom = 0x33005$/;"	c
+Time	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Time                      Atom = 0x4204$/;"	c
+Title	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Title                     Atom = 0x11005$/;"	c
+Token	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) Token() Token {$/;"	f
+Token	roobot/vendor/golang.org/x/net/html/token.go	/^type Token struct {$/;"	t
+TokenType	roobot/vendor/golang.org/x/net/html/token.go	/^type TokenType uint32$/;"	t
+Tokenizer	roobot/vendor/golang.org/x/net/html/token.go	/^type Tokenizer struct {$/;"	t
+Tr	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Tr                        Atom = 0xcc02$/;"	c
+Track	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Track                     Atom = 0x1ba05$/;"	c
+Translate	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Translate                 Atom = 0x1f209$/;"	c
+Tt	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Tt                        Atom = 0x6802$/;"	c
+Type	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Type                      Atom = 0xd904$/;"	c
+Typemustmatch	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Typemustmatch             Atom = 0x2900d$/;"	c
+U	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	U                         Atom = 0xb01$/;"	c
+USERAGENT	httpclient/main.go	/^	USERAGENT       = "my awsome httpclient"$/;"	c
+Ul	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Ul                        Atom = 0xa702$/;"	c
+UnescapeString	roobot/vendor/golang.org/x/net/html/escape.go	/^func UnescapeString(s string) string {$/;"	f
+Updateviacache	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Updateviacache            Atom = 0x460e$/;"	c
+Usemap	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Usemap                    Atom = 0x59e06$/;"	c
+Value	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Value                     Atom = 0x1505$/;"	c
+Var	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Var                       Atom = 0x16d03$/;"	c
+Video	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Video                     Atom = 0x2f105$/;"	c
+Wbr	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Wbr                       Atom = 0x57c03$/;"	c
+Width	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Width                     Atom = 0x64905$/;"	c
+Work	digui/test/test.go	/^func (s *Robot) Work() {$/;"	f
+Workertype	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Workertype                Atom = 0x71c0a$/;"	c
+Wrap	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Wrap                      Atom = 0x72604$/;"	c
+Xmp	roobot/vendor/golang.org/x/net/html/atom/table.go	/^	Xmp                       Atom = 0x12f03$/;"	c
+a	moxie/Hexadecimal/Hexadecimal.go	/^var a int$/;"	v
+a	moxie/qsort.go	/^var a []int$/;"	v
+a	paixu/qsort.go	/^var a []int \/\/需要排序的数组$/;"	v
+abba	type/exmple1/main.go	/^func abba(a functtion, b channle, c hmap, d slice, e inter) {$/;"	f
+acknowledgeSelfClosingTag	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) acknowledgeSelfClosingTag() {$/;"	f
+addChild	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) addChild(n *Node) {$/;"	f
+addElement	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) addElement() {$/;"	f
+addFormattingElement	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) addFormattingElement() {$/;"	f
+addText	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) addText(text string) {$/;"	f
+adjustAttributeNames	roobot/vendor/golang.org/x/net/html/foreign.go	/^func adjustAttributeNames(aa []Attribute, nameMap map[string]string) {$/;"	f
+adjustForeignAttributes	roobot/vendor/golang.org/x/net/html/foreign.go	/^func adjustForeignAttributes(aa []Attribute) {$/;"	f
+afterAfterBodyIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func afterAfterBodyIM(p *parser) bool {$/;"	f
+afterAfterFramesetIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func afterAfterFramesetIM(p *parser) bool {$/;"	f
+afterBodyIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func afterBodyIM(p *parser) bool {$/;"	f
+afterFramesetIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func afterFramesetIM(p *parser) bool {$/;"	f
+afterHeadIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func afterHeadIM(p *parser) bool {$/;"	f
+as	interface/if_duan_yan.go	/^type as struct {$/;"	t
+assr	map/test.go	/^type assr func(string) int$/;"	t
+atom	roobot/vendor/golang.org/x/net/html/atom/atom.go	/^package atom \/\/ import "golang.org\/x\/net\/html\/atom"$/;"	p
+atom	roobot/vendor/golang.org/x/net/html/atom/table.go	/^package atom$/;"	p
+atomText	roobot/vendor/golang.org/x/net/html/atom/table.go	/^const atomText = "abbradiogrouparamainavalueaccept-charsetbodyaccesskeygenobrb" +$/;"	c
+attributes	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^var attributes = []string{$/;"	v
+beforeHTMLIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func beforeHTMLIM(p *parser) bool {$/;"	f
+beforeHeadIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func beforeHeadIM(p *parser) bool {$/;"	f
+breakout	roobot/vendor/golang.org/x/net/html/foreign.go	/^var breakout = map[string]bool{$/;"	v
+broadcaster	test/chat/chat.go	/^func broadcaster() {$/;"	f
+bubble	paixu/bubble_sort.go	/^func bubble(s []int) {$/;"	f
+buttonScope	roobot/vendor/golang.org/x/net/html/parse.go	/^	buttonScope$/;"	c
+byLen	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^type byLen []string$/;"	t
+ch6	channel/demo004_┤°╗║┤ц╡─═и╡└.go	/^var ch6 chan int$/;"	v
+ch7	channel/demo004_┤°╗║┤ц╡─═и╡└.go	/^var ch7 chan int$/;"	v
+channle	type/exmple1/main.go	/^type channle <-chan string$/;"	t
+clearActiveFormattingElements	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) clearActiveFormattingElements() {$/;"	f
+clearStackToContext	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) clearStackToContext(s scope) {$/;"	f
+client	Elasticsearch/main.go	/^var client *elastic.Client$/;"	v
+client	test/chat/chat.go	/^type client chan<- string \/\/ an outgoing message channel$/;"	t
+clientWriter	test/chat/chat.go	/^func clientWriter(conn net.Conn, ch <-chan string) {$/;"	f
+clone	roobot/vendor/golang.org/x/net/html/node.go	/^func (n *Node) clone() *Node {$/;"	f
+code	xiaoyao/codec/code/codec.go	/^package code$/;"	p
+contains	roobot/vendor/golang.org/x/net/html/node.go	/^func (s *nodeStack) contains(a atom.Atom) bool {$/;"	f
+convertNewlines	roobot/vendor/golang.org/x/net/html/token.go	/^func convertNewlines(s []byte) []byte {$/;"	f
+copyAttributes	roobot/vendor/golang.org/x/net/html/parse.go	/^func copyAttributes(dst *Node, src Token) {$/;"	f
+crawl	roobot/findlinks.go	/^func crawl(url string) []string {$/;"	f
+create	Elasticsearch/main.go	/^func create() {$/;"	f
+curr	linked_list/linked/link.go	/^var curr *node$/;"	v
+data	xiaoyao/mine_test/data/mine_date.go	/^package data$/;"	p
+db	xiaoyao/mine_test/mod/db/db.go	/^package db$/;"	p
+db	xiaoyao/mine_test/mod/db/mine_db.go	/^package db$/;"	p
+defaultScope	roobot/vendor/golang.org/x/net/html/parse.go	/^	defaultScope scope = iota$/;"	c
+defaultScopeStopTags	roobot/vendor/golang.org/x/net/html/parse.go	/^	defaultScopeStopTags = map[string][]a.Atom{$/;"	v
+defer_call	moxie/defer.go	/^func defer_call() {$/;"	f
+delete	Elasticsearch/main.go	/^func delete() {$/;"	f
+elementInScope	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) elementInScope(s scope, matchTags ...a.Atom) bool {$/;"	f
+elements	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^var elements = []string{$/;"	v
+entering	test/chat/chat.go	/^	entering = make(chan client)$/;"	v
+entity	roobot/vendor/golang.org/x/net/html/entity.go	/^var entity = map[string]rune{$/;"	v
+entity2	roobot/vendor/golang.org/x/net/html/entity.go	/^var entity2 = map[string][2]rune{$/;"	v
+escape	roobot/vendor/golang.org/x/net/html/escape.go	/^func escape(w writer, s string) error {$/;"	f
+escapedChars	roobot/vendor/golang.org/x/net/html/escape.go	/^const escapedChars = "&'<>\\"\\r"$/;"	c
+eventHandlers	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^var eventHandlers = []string{$/;"	v
+example	type/exmple1/main.go	/^type example struct {$/;"	t
+extra	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^var extra = []string{$/;"	v
+fnv	roobot/vendor/golang.org/x/net/html/atom/atom.go	/^func fnv(h uint32, s []byte) uint32 {$/;"	f
+fnv	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^func fnv(h uint32, s string) uint32 {$/;"	f
+forEachNode	roobot/links/links.go	/^func forEachNode(n *html.Node, pre, post func(n *html.Node)) {$/;"	f
+fosterParent	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) fosterParent(n *Node) {$/;"	f
+fun1	channel/demo09_╡е╧Є═и╡└.go	/^func fun1(ch chan<- int) {$/;"	f
+fun2	channel/demo09_╡е╧Є═и╡└.go	/^func fun2(ch <-chan int) {$/;"	f
+functtion	type/exmple1/main.go	/^type functtion func(int)$/;"	t
+genFile	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^func genFile(name string, buf *bytes.Buffer) {$/;"	f
+generateImpliedEndTags	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) generateImpliedEndTags(exceptions ...string) {$/;"	f
+getJsonByte	redis/redispool.go	/^func getJsonByte(k string) ([]byte, error) {$/;"	f
+getStringValue	redis/redispool.go	/^func getStringValue(k string) string {$/;"	f
+gets	Elasticsearch/main.go	/^func gets() {$/;"	f
+god	digui/test/sliceapennd.go	/^type god struct {$/;"	t
+h	xiaoyao/codec/code/codec.go	/^var h = new(codec.JsonHandle)$/;"	v
+h	xiaoyao/map/structmap.go	/^var h = new(codec.JsonHandle)$/;"	v
+h	xiaoyao/map/structmapDecoder.go	/^var h = new(codec.JsonHandle)$/;"	v
+haed	linked_list/linked/link.go	/^var haed *node$/;"	v
+handleConn	test/chat/chat.go	/^func handleConn(conn net.Conn) {$/;"	f
+hash	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^func (t *table) hash(s string) (h1, h2 uint32) {$/;"	f
+hash0	roobot/vendor/golang.org/x/net/html/atom/table.go	/^const hash0 = 0x81cdf10e$/;"	c
+head	moxie/linklist/link/link.go	/^var head *node$/;"	v
+hmap	type/exmple1/main.go	/^type hmap map[string]int$/;"	t
+hmap1	type/exmple1/main.go	/^type hmap1 map[channle]int$/;"	t
+hmap2	type/exmple1/main.go	/^type hmap2 map[int]func(int)$/;"	t
+hmap3	type/exmple1/main.go	/^type hmap3 map[inter]slice$/;"	t
+hmap4	type/exmple1/main.go	/^type hmap4 map[struct{}]slice$/;"	t
+host	Elasticsearch/main.go	/^var host = "http:\/\/192.168.25.129:9200\/"$/;"	v
+html	roobot/vendor/golang.org/x/net/html/const.go	/^package html$/;"	p
+html	roobot/vendor/golang.org/x/net/html/doc.go	/^package html \/\/ import "golang.org\/x\/net\/html"$/;"	p
+html	roobot/vendor/golang.org/x/net/html/doctype.go	/^package html$/;"	p
+html	roobot/vendor/golang.org/x/net/html/entity.go	/^package html$/;"	p
+html	roobot/vendor/golang.org/x/net/html/escape.go	/^package html$/;"	p
+html	roobot/vendor/golang.org/x/net/html/foreign.go	/^package html$/;"	p
+html	roobot/vendor/golang.org/x/net/html/node.go	/^package html$/;"	p
+html	roobot/vendor/golang.org/x/net/html/parse.go	/^package html$/;"	p
+html	roobot/vendor/golang.org/x/net/html/render.go	/^package html$/;"	p
+html	roobot/vendor/golang.org/x/net/html/token.go	/^package html$/;"	p
+htmlIntegrationPoint	roobot/vendor/golang.org/x/net/html/foreign.go	/^func htmlIntegrationPoint(n *Node) bool {$/;"	f
+identifier	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^func identifier(s string) string {$/;"	f
+inBodyEndTagFormatting	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) inBodyEndTagFormatting(tagAtom a.Atom) {$/;"	f
+inBodyEndTagOther	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) inBodyEndTagOther(tagAtom a.Atom) {$/;"	f
+inBodyIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func inBodyIM(p *parser) bool {$/;"	f
+inCaptionIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func inCaptionIM(p *parser) bool {$/;"	f
+inCellIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func inCellIM(p *parser) bool {$/;"	f
+inColumnGroupIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func inColumnGroupIM(p *parser) bool {$/;"	f
+inForeignContent	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) inForeignContent() bool {$/;"	f
+inFramesetIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func inFramesetIM(p *parser) bool {$/;"	f
+inHeadIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func inHeadIM(p *parser) bool {$/;"	f
+inOrderTraverse	TFTree/tree.go	/^func inOrderTraverse(n *Node, f func(Item)) {$/;"	f
+inRowIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func inRowIM(p *parser) bool {$/;"	f
+inSelectIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func inSelectIM(p *parser) bool {$/;"	f
+inSelectInTableIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func inSelectInTableIM(p *parser) bool {$/;"	f
+inTableBodyIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func inTableBodyIM(p *parser) bool {$/;"	f
+inTableIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func inTableIM(p *parser) bool {$/;"	f
+inTemplateIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func inTemplateIM(p *parser) bool {$/;"	f
+index	roobot/vendor/golang.org/x/net/html/node.go	/^func (s *nodeStack) index(n *Node) int {$/;"	f
+indexOfElementInScope	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) indexOfElementInScope(s scope, matchTags ...a.Atom) int {$/;"	f
+init	Elasticsearch/main.go	/^func init() {$/;"	f
+init	digui/digui.go	/^func init() {$/;"	f
+init	iris/example3.go	/^func init() {$/;"	f
+init	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^func (t *table) init(h0 uint32, k uint, x []string) bool {$/;"	f
+init	xiaoyao/mine_test/mod/db/db.go	/^func init() {$/;"	f
+init	xiaoyao/mine_test/mod/mine/mine_mod.go	/^func init() {$/;"	f
+initialIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func initialIM(p *parser) bool {$/;"	f
+insert	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^func (t *table) insert(s string) bool {$/;"	f
+insert	roobot/vendor/golang.org/x/net/html/node.go	/^func (s *nodeStack) insert(i int, n *Node) {$/;"	f
+insertNode	TFTree/tree.go	/^func insertNode(node, newNode *Node) {$/;"	f
+insertionMode	roobot/vendor/golang.org/x/net/html/parse.go	/^type insertionMode func(*parser) bool$/;"	t
+insertionModeStack	roobot/vendor/golang.org/x/net/html/node.go	/^type insertionModeStack []insertionMode$/;"	t
+inter	type/exmple1/main.go	/^type inter interface {$/;"	t
+isSpecialElement	roobot/vendor/golang.org/x/net/html/const.go	/^func isSpecialElement(element *Node) bool {$/;"	f
+isSpecialElementMap	roobot/vendor/golang.org/x/net/html/const.go	/^var isSpecialElementMap = map[string]bool{$/;"	v
+jsonrpcSem	digui/digui.go	/^	jsonrpcSem = 1$/;"	c
+leaving	test/chat/chat.go	/^	leaving  = make(chan client)$/;"	v
+link	moxie/linklist/link/link.go	/^package link$/;"	p
+linked	linked_list/linked/link.go	/^package linked$/;"	p
+links	roobot/links/links.go	/^package links$/;"	p
+list	Elasticsearch/main.go	/^func list(size, page int) {$/;"	f
+listItemScope	roobot/vendor/golang.org/x/net/html/parse.go	/^	listItemScope$/;"	c
+longestEntityWithoutSemicolon	roobot/vendor/golang.org/x/net/html/entity.go	/^const longestEntityWithoutSemicolon = 6$/;"	c
+low	moxie/linklist/link/link.go	/^var low *node$/;"	v
+lower	roobot/vendor/golang.org/x/net/html/escape.go	/^func lower(b []byte) []byte {$/;"	f
+m	moxie/select1.go	/^var m sync.RWMutex$/;"	v
+m	moxie/tongdao/tondao.go	/^var m *sync.RWMutex$/;"	v
+main	Elasticsearch/main.go	/^func main() {$/;"	f
+main	Elasticsearch/main.go	/^package main$/;"	p
+main	TFTree/tree.go	/^func main() {$/;"	f
+main	TFTree/tree.go	/^package main$/;"	p
+main	channel/demo004_┤°╗║┤ц╡─═и╡└.go	/^func main() {$/;"	f
+main	channel/demo004_┤°╗║┤ц╡─═и╡└.go	/^package main$/;"	p
+main	channel/demo01_═и╡└.go	/^func main() {$/;"	f
+main	channel/demo01_═и╡└.go	/^package main$/;"	p
+main	channel/demo02_╫ш╚√.go	/^func main() {$/;"	f
+main	channel/demo02_╫ш╚√.go	/^package main$/;"	p
+main	channel/demo03_┴╖╧░.go	/^func main() {$/;"	f
+main	channel/demo03_┴╖╧░.go	/^package main$/;"	p
+main	channel/demo04_╣╪▒╒═и╡└.go	/^func main() {$/;"	f
+main	channel/demo04_╣╪▒╒═и╡└.go	/^package main$/;"	p
+main	channel/demo05_range.go	/^func main() {$/;"	f
+main	channel/demo05_range.go	/^package main$/;"	p
+main	channel/demo06_╗║┤ц═и╡└.go	/^func main() {$/;"	f
+main	channel/demo06_╗║┤ц═и╡└.go	/^package main$/;"	p
+main	channel/demo07_┴╖╧░.go	/^func main() {$/;"	f
+main	channel/demo07_┴╖╧░.go	/^package main$/;"	p
+main	channel/demo08_╦л╧Є═и╡└.go	/^func main() {$/;"	f
+main	channel/demo08_╦л╧Є═и╡└.go	/^package main$/;"	p
+main	channel/demo09_╡е╧Є═и╡└.go	/^func main() {$/;"	f
+main	channel/demo09_╡е╧Є═и╡└.go	/^package main$/;"	p
+main	channel/demo10_╔·▓·╒▀║═╧√╖╤╒▀1-2.go	/^func main() {$/;"	f
+main	channel/demo10_╔·▓·╒▀║═╧√╖╤╒▀1-2.go	/^package main$/;"	p
+main	channel/demo11_╔·▓·╒▀║═╧√╖╤╒▀2-1.go	/^func main() {$/;"	f
+main	channel/demo11_╔·▓·╒▀║═╧√╖╤╒▀2-1.go	/^package main$/;"	p
+main	channel/demo12_╫в╥т╡у.go	/^func main() {$/;"	f
+main	channel/demo12_╫в╥т╡у.go	/^package main$/;"	p
+main	channel/demo13_test▒ф┴┐.go	/^func main() {$/;"	f
+main	channel/demo13_test▒ф┴┐.go	/^package main$/;"	p
+main	channel/demo14_time.go	/^func main() {$/;"	f
+main	channel/demo14_time.go	/^package main$/;"	p
+main	channel/demo15_select.go	/^func main() {$/;"	f
+main	channel/demo15_select.go	/^package main$/;"	p
+main	channel/demo16_select.go	/^func main() {$/;"	f
+main	channel/demo16_select.go	/^package main$/;"	p
+main	channel/demo17_┴╖╧░.go	/^func main() {$/;"	f
+main	channel/demo17_┴╖╧░.go	/^package main$/;"	p
+main	constant/constant.go	/^func main() {$/;"	f
+main	constant/constant.go	/^package main$/;"	p
+main	digui/digui.go	/^func main() {$/;"	f
+main	digui/digui.go	/^package main$/;"	p
+main	digui/test/polymorphic.go	/^func main() {$/;"	f
+main	digui/test/polymorphic.go	/^package main$/;"	p
+main	digui/test/sliceapennd.go	/^func main() {$/;"	f
+main	digui/test/sliceapennd.go	/^package main$/;"	p
+main	embd/embd.go	/^func main() {$/;"	f
+main	embd/embd.go	/^package main$/;"	p
+main	encoding/base64/base64.go	/^func main() {$/;"	f
+main	encoding/base64/base64.go	/^package main$/;"	p
+main	encoding/gob/gob.go	/^func main() {$/;"	f
+main	encoding/gob/gob.go	/^package main$/;"	p
+main	fprintln/ds.go	/^func main() {$/;"	f
+main	fprintln/ds.go	/^package main$/;"	p
+main	httpclient.go	/^func main() {$/;"	f
+main	httpclient.go	/^package main$/;"	p
+main	httpclient/main.go	/^func main() {$/;"	f
+main	httpclient/main.go	/^package main$/;"	p
+main	interface/if_duan_yan.go	/^func main() {$/;"	f
+main	interface/if_duan_yan.go	/^package main$/;"	p
+main	interface/polymorphic.go	/^func main() {$/;"	f
+main	interface/polymorphic.go	/^package main$/;"	p
+main	io/io.go	/^func main() {$/;"	f
+main	io/io.go	/^package main$/;"	p
+main	iris/Example.go	/^func main() {$/;"	f
+main	iris/Example.go	/^package main$/;"	p
+main	iris/example1.go	/^func main() {$/;"	f
+main	iris/example1.go	/^package main$/;"	p
+main	iris/example2.go	/^func main() {$/;"	f
+main	iris/example2.go	/^package main$/;"	p
+main	iris/example3.go	/^func main() {$/;"	f
+main	iris/example3.go	/^package main$/;"	p
+main	iris/sessions.go	/^func main() {$/;"	f
+main	iris/sessions.go	/^package main$/;"	p
+main	linked_list/node.go	/^func main() {$/;"	f
+main	linked_list/node.go	/^package main$/;"	p
+main	map/slicemap.go	/^func main() {$/;"	f
+main	map/slicemap.go	/^package main$/;"	p
+main	map/structmap.go	/^func main() {$/;"	f
+main	map/structmap.go	/^package main$/;"	p
+main	map/test.go	/^func main() {$/;"	f
+main	map/test.go	/^package main$/;"	p
+main	md5/md.go	/^func main() {$/;"	f
+main	md5/md.go	/^package main$/;"	p
+main	moxie/Hexadecimal/Hexadecimal.go	/^func main() {$/;"	f
+main	moxie/Hexadecimal/Hexadecimal.go	/^package main$/;"	p
+main	moxie/append.go	/^func main() {$/;"	f
+main	moxie/append.go	/^package main$/;"	p
+main	moxie/bubble.go	/^func main() {$/;"	f
+main	moxie/bubble.go	/^package main$/;"	p
+main	moxie/defer.go	/^func main() {$/;"	f
+main	moxie/defer.go	/^package main$/;"	p
+main	moxie/linklist/main.go	/^func main() {$/;"	f
+main	moxie/linklist/main.go	/^package main$/;"	p
+main	moxie/main.go	/^func main() {$/;"	f
+main	moxie/main.go	/^package main$/;"	p
+main	moxie/qsort.go	/^func main() {$/;"	f
+main	moxie/qsort.go	/^package main$/;"	p
+main	moxie/select.go	/^func main() {$/;"	f
+main	moxie/select.go	/^package main$/;"	p
+main	moxie/select1.go	/^func main() {$/;"	f
+main	moxie/select1.go	/^package main$/;"	p
+main	moxie/tongdao/binfa.go	/^func main() {$/;"	f
+main	moxie/tongdao/binfa.go	/^package main$/;"	p
+main	moxie/tongdao/tondao.go	/^func main() {$/;"	f
+main	moxie/tongdao/tondao.go	/^package main$/;"	p
+main	os/stdin/main.go	/^func main() {$/;"	f
+main	os/stdin/main.go	/^package main$/;"	p
+main	os/stdout/Stdout.go	/^func main() {$/;"	f
+main	os/stdout/Stdout.go	/^package main$/;"	p
+main	paixu/bubble_sort.go	/^func main() {$/;"	f
+main	paixu/bubble_sort.go	/^package main$/;"	p
+main	paixu/feibonaqi.go	/^func main() {$/;"	f
+main	paixu/feibonaqi.go	/^package main$/;"	p
+main	paixu/qsort.go	/^func main() {$/;"	f
+main	paixu/qsort.go	/^package main$/;"	p
+main	redis/redisCline_time.go	/^func main() {$/;"	f
+main	redis/redisCline_time.go	/^package main$/;"	p
+main	redis/redisServer_time.go	/^func main() {$/;"	f
+main	redis/redisServer_time.go	/^package main$/;"	p
+main	redis/redispool.go	/^package main$/;"	p
+main	roobot/findlinks.go	/^func main() {$/;"	f
+main	roobot/findlinks.go	/^package main$/;"	p
+main	roobot/roboot.go	/^func main() {$/;"	f
+main	roobot/roboot.go	/^package main$/;"	p
+main	roobot/roboot1.go	/^func main() {$/;"	f
+main	roobot/roboot1.go	/^package main$/;"	p
+main	roobot/roboot2.go	/^func main() {$/;"	f
+main	roobot/roboot2.go	/^package main$/;"	p
+main	roobot/roboot3.go	/^func main() {$/;"	f
+main	roobot/roboot3.go	/^package main$/;"	p
+main	roobot/son.go	/^package main$/;"	p
+main	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^func main() {$/;"	f
+main	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^package main$/;"	p
+main	slice/sliceappend.go	/^func main() {$/;"	f
+main	slice/sliceappend.go	/^package main$/;"	p
+main	struct/test.go	/^func main() {$/;"	f
+main	struct/test.go	/^package main$/;"	p
+main	switch/case_.go	/^func main() {$/;"	f
+main	switch/case_.go	/^package main$/;"	p
+main	test/chat/chat.go	/^func main() {$/;"	f
+main	test/chat/chat.go	/^package main$/;"	p
+main	test/netcat3/netcat.go	/^func main() {$/;"	f
+main	test/netcat3/netcat.go	/^package main$/;"	p
+main	test/struct.go	/^func main() {$/;"	f
+main	test/struct.go	/^package main$/;"	p
+main	test/struct1.go	/^func main() {$/;"	f
+main	test/struct1.go	/^package main$/;"	p
+main	test/struct2.go	/^func main() {$/;"	f
+main	test/struct2.go	/^package main$/;"	p
+main	time/time.go	/^func main() {$/;"	f
+main	time/time.go	/^package main$/;"	p
+main	time/time1.go	/^func main() {$/;"	f
+main	time/time1.go	/^package main$/;"	p
+main	time/time2.go	/^func main() {$/;"	f
+main	time/time2.go	/^package main$/;"	p
+main	time/time3.go	/^func main() {$/;"	f
+main	time/time3.go	/^package main$/;"	p
+main	tondao/channel.go	/^func main() {$/;"	f
+main	tondao/channel.go	/^package main$/;"	p
+main	tondao/channel2.go	/^func main() {$/;"	f
+main	tondao/channel2.go	/^package main$/;"	p
+main	type/exmple1/main.go	/^func main() {$/;"	f
+main	type/exmple1/main.go	/^package main$/;"	p
+main	uuid/uuid.go	/^func main() {$/;"	f
+main	uuid/uuid.go	/^package main$/;"	p
+main	xiaoyao/codec/codeDecoder.go	/^func main() {$/;"	f
+main	xiaoyao/codec/codeDecoder.go	/^package main$/;"	p
+main	xiaoyao/codec/codecEncodec.go	/^func main() {$/;"	f
+main	xiaoyao/codec/codecEncodec.go	/^package main$/;"	p
+main	xiaoyao/csv4g/csv.go	/^func main() {$/;"	f
+main	xiaoyao/csv4g/csv.go	/^package main$/;"	p
+main	xiaoyao/flag/stringvar.go	/^func main() {$/;"	f
+main	xiaoyao/flag/stringvar.go	/^package main$/;"	p
+main	xiaoyao/map/structmap.go	/^func main() {$/;"	f
+main	xiaoyao/map/structmap.go	/^package main$/;"	p
+main	xiaoyao/map/structmapDecoder.go	/^func main() {$/;"	f
+main	xiaoyao/map/structmapDecoder.go	/^package main$/;"	p
+main	xiaoyao/mine_test/main/main.go	/^func main() {$/;"	f
+main	xiaoyao/mine_test/main/main.go	/^package main$/;"	p
+main	xiaoyao/time/time.go	/^func main() {$/;"	f
+main	xiaoyao/time/time.go	/^package main$/;"	p
+main	xiaoyao/time/time1.go	/^func main() {$/;"	f
+main	xiaoyao/time/time1.go	/^package main$/;"	p
+main	xiaoyao/zap/logger.go	/^func main() {$/;"	f
+main	xiaoyao/zap/logger.go	/^package main$/;"	p
+maopao	moxie/main.go	/^func maopao(s []int) {$/;"	f
+map1	map/structmap.go	/^var map1 = make(map[int]*test)$/;"	v
+map1	xiaoyao/map/structmap.go	/^var map1 = make(map[int]*test)$/;"	v
+mapstruct	digui/test/polymorphic.go	/^type mapstruct map[string]Runner{}$/;"	t
+match	roobot/vendor/golang.org/x/net/html/atom/atom.go	/^func match(s string, t []byte) bool {$/;"	f
+matex	tondao/channel.go	/^var matex sync.Mutex \/\/ 创建锁头$/;"	v
+mathMLAttributeAdjustments	roobot/vendor/golang.org/x/net/html/foreign.go	/^var mathMLAttributeAdjustments = map[string]string{$/;"	v
+mathMLTextIntegrationPoint	roobot/vendor/golang.org/x/net/html/foreign.go	/^func mathMLTextIntegrationPoint(n *Node) bool {$/;"	f
+maxAtomLen	roobot/vendor/golang.org/x/net/html/atom/table.go	/^const maxAtomLen = 25$/;"	c
+messages	test/chat/chat.go	/^	messages = make(chan string) \/\/ all incoming client messages$/;"	v
+mine	xiaoyao/mine_test/mod/mine/mine_mod.go	/^package mine$/;"	p
+mineMod	xiaoyao/mine_test/mod/mine/mine_mod.go	/^type mineMod struct {$/;"	t
+mod	xiaoyao/mine_test/mod/interfs.go	/^package mod$/;"	p
+mod	xiaoyao/mine_test/mod/mod.go	/^package mod$/;"	p
+mustCopy	test/netcat3/netcat.go	/^func mustCopy(dst io.Writer, src io.Reader) {$/;"	f
+name	test/struct2.go	/^type name struct {$/;"	t
+nn	slice/sliceappend.go	/^type nn struct {$/;"	t
+node	linked_list/linked/link.go	/^type node struct {$/;"	t
+node	moxie/linklist/link/link.go	/^type node struct {$/;"	t
+nodeStack	roobot/vendor/golang.org/x/net/html/node.go	/^type nodeStack []*Node$/;"	t
+nul	roobot/vendor/golang.org/x/net/html/token.go	/^	nul         = []byte("\\x00")$/;"	v
+parse	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) parse() error {$/;"	f
+parseCurrentToken	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) parseCurrentToken() {$/;"	f
+parseDoctype	roobot/vendor/golang.org/x/net/html/doctype.go	/^func parseDoctype(s string) (n *Node, quirks bool) {$/;"	f
+parseForeignContent	roobot/vendor/golang.org/x/net/html/parse.go	/^func parseForeignContent(p *parser) bool {$/;"	f
+parseImpliedToken	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) parseImpliedToken(t TokenType, dataAtom a.Atom, data string) {$/;"	f
+parser	roobot/vendor/golang.org/x/net/html/parse.go	/^type parser struct {$/;"	t
+plaintextAbort	roobot/vendor/golang.org/x/net/html/render.go	/^var plaintextAbort = errors.New("html: internal error (plaintext abort)")$/;"	v
+pop	roobot/vendor/golang.org/x/net/html/node.go	/^func (s *insertionModeStack) pop() (im insertionMode) {$/;"	f
+pop	roobot/vendor/golang.org/x/net/html/node.go	/^func (s *nodeStack) pop() *Node {$/;"	f
+popUntil	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) popUntil(s scope, matchTags ...a.Atom) bool {$/;"	f
+postOrderTraverse	TFTree/tree.go	/^func (bst *ItemBinarySearchTree) postOrderTraverse(f func(Item)) {$/;"	f
+postOrderTraverse	TFTree/tree.go	/^func postOrderTraverse(n *Node, f func(Item)) {$/;"	f
+preOrderTraverse	TFTree/tree.go	/^func (bst *ItemBinarySearchTree) preOrderTraverse(f func(Item)) {$/;"	f
+preOrderTraverse	TFTree/tree.go	/^func preOrderTraverse(n *Node, f func(Item)) {$/;"	f
+printEmployee	Elasticsearch/main.go	/^func printEmployee(res *elastic.SearchResult, err error) {$/;"	f
+printLetter	channel/demo03_┴╖╧░.go	/^func printLetter(ch1 chan bool) {$/;"	f
+printNum	channel/demo03_┴╖╧░.go	/^func printNum(ch1 chan bool) {$/;"	f
+printSplit	time/time2.go	/^func printSplit(count int) {$/;"	f
+println	moxie/tongdao/tondao.go	/^func println(i int, s string) {$/;"	f
+push	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^func (t *table) push(i uint32, depth int) bool {$/;"	f
+qsort	moxie/qsort.go	/^func qsort(left int, rigth int) {$/;"	f
+query	Elasticsearch/main.go	/^func query() {$/;"	f
+quicksort	paixu/qsort.go	/^func quicksort(left int, right int) {$/;"	f
+quirkyIDs	roobot/vendor/golang.org/x/net/html/doctype.go	/^var quirkyIDs = []string{$/;"	v
+r	channel/demo004_┤°╗║┤ц╡─═и╡└.go	/^func r() {$/;"	f
+read	moxie/tongdao/tondao.go	/^func read(i int) {$/;"	f
+readAtLeastOneByte	roobot/vendor/golang.org/x/net/html/token.go	/^func readAtLeastOneByte(r io.Reader, b []byte) (int, error) {$/;"	f
+readByte	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) readByte() byte {$/;"	f
+readCDATA	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) readCDATA() bool {$/;"	f
+readComment	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) readComment() {$/;"	f
+readDoctype	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) readDoctype() bool {$/;"	f
+readMarkupDeclaration	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) readMarkupDeclaration() TokenType {$/;"	f
+readRawEndTag	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) readRawEndTag() bool {$/;"	f
+readRawOrRCDATA	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) readRawOrRCDATA() {$/;"	f
+readScript	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) readScript() {$/;"	f
+readStartTag	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) readStartTag() TokenType {$/;"	f
+readTag	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) readTag(saveAttr bool) {$/;"	f
+readTagAttrKey	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) readTagAttrKey() {$/;"	f
+readTagAttrVal	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) readTagAttrVal() {$/;"	f
+readTagName	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) readTagName() {$/;"	f
+readUntilCloseAngle	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) readUntilCloseAngle() {$/;"	f
+reconstructActiveFormattingElements	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) reconstructActiveFormattingElements() {$/;"	f
+redisIdleTimeoutSec	redis/redispool.go	/^	redisIdleTimeoutSec = 240 \/\/最大空闲连接时间$/;"	c
+redisMaxIdle	redis/redispool.go	/^	redisMaxIdle        = 3   \/\/最大空闲连接数$/;"	c
+remove	roobot/vendor/golang.org/x/net/html/node.go	/^func (s *nodeStack) remove(n *Node) {$/;"	f
+render	roobot/vendor/golang.org/x/net/html/render.go	/^func render(w writer, n *Node) error {$/;"	f
+render1	roobot/vendor/golang.org/x/net/html/render.go	/^func render1(w writer, n *Node) error {$/;"	f
+reparentChildren	roobot/vendor/golang.org/x/net/html/node.go	/^func reparentChildren(dst, src *Node) {$/;"	f
+replacement	roobot/vendor/golang.org/x/net/html/token.go	/^	replacement = []byte("\\ufffd")$/;"	v
+replacementTable	roobot/vendor/golang.org/x/net/html/escape.go	/^var replacementTable = [...]rune{$/;"	v
+requestRecursive	digui/digui.go	/^type requestRecursive func(string)$/;"	t
+requestTransformation	digui/digui.go	/^type requestTransformation func(rune) []byte$/;"	t
+resetInsertionMode	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) resetInsertionMode() {$/;"	f
+rpc	map/test.go	/^var rpc = map[string]struct {$/;"	v
+run	digui/test/polymorphic.go	/^func (r *Runner) run() {$/;"	f
+run	interface/polymorphic.go	/^func (r *Runner) run() {$/;"	f
+s	switch/case_.go	/^var s int$/;"	v
+saleticket2s	tondao/channel.go	/^func saleticket2s(name string) {$/;"	f
+sb	map/test.go	/^func sb(s int) {$/;"	f
+sbb	map/test.go	/^func sbb(s string) int {$/;"	f
+scope	roobot/vendor/golang.org/x/net/html/parse.go	/^type scope int$/;"	t
+scopeMarker	roobot/vendor/golang.org/x/net/html/node.go	/^var scopeMarker = Node{Type: scopeMarkerNode}$/;"	v
+scopeMarkerNode	roobot/vendor/golang.org/x/net/html/node.go	/^	scopeMarkerNode$/;"	c
+search	TFTree/tree.go	/^func search(n *Node, key int) bool {$/;"	f
+selectScope	roobot/vendor/golang.org/x/net/html/parse.go	/^	selectScope$/;"	c
+sendData	channel/demo04_╣╪▒╒═и╡└.go	/^func sendData(ch1 chan int) {$/;"	f
+sendData2	channel/demo05_range.go	/^func sendData2(ch1 chan int) {$/;"	f
+sendData3	channel/demo06_╗║┤ц═и╡└.go	/^func sendData3(ch3 chan string) {$/;"	f
+sendData3	tondao/channel2.go	/^func sendData3(ch3 chan string) {$/;"	f
+sessionsManager	iris/example3.go	/^var sessionsManager *sessions.Sessions$/;"	v
+set	redis/redispool.go	/^func set(k, v string) {$/;"	f
+setOriginalIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) setOriginalIM() {$/;"	f
+sf	xiaoyao/csv4g/csv.go	/^var sf = make(map[int]Test)$/;"	v
+shoocl	test/struct2.go	/^type shoocl struct {$/;"	t
+shouldFosterParent	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) shouldFosterParent() bool {$/;"	f
+skipWhiteSpace	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) skipWhiteSpace() {$/;"	f
+slice	type/exmple1/main.go	/^type slice []example$/;"	t
+slice1	type/exmple1/main.go	/^type slice1 []struct{}$/;"	t
+slice2	type/exmple1/main.go	/^type slice2 []interface{}$/;"	t
+slice3	type/exmple1/main.go	/^type slice3 []int$/;"	t
+span	roobot/vendor/golang.org/x/net/html/token.go	/^type span struct {$/;"	t
+spe	digui/digui.go	/^var spe = map[string]struct {$/;"	v
+ss	map/test.go	/^type ss func(int)$/;"	t
+ss	struct/test.go	/^var ss = []int{23, 43, 2}$/;"	v
+sss	interface/if_duan_yan.go	/^type sss interface{}$/;"	t
+startTagIn	roobot/vendor/golang.org/x/net/html/token.go	/^func (z *Tokenizer) startTagIn(ss ...string) bool {$/;"	f
+stdin	os/stdin/stdin.go	/^package stdin$/;"	p
+stdin	os/stdin/stdin1.go	/^package stdin$/;"	p
+string	roobot/vendor/golang.org/x/net/html/atom/atom.go	/^func (a Atom) string() string {$/;"	f
+stringify	TFTree/tree.go	/^func stringify(n *Node, level int) {$/;"	f
+svgAttributeAdjustments	roobot/vendor/golang.org/x/net/html/foreign.go	/^var svgAttributeAdjustments = map[string]string{$/;"	v
+svgTagNameAdjustments	roobot/vendor/golang.org/x/net/html/foreign.go	/^var svgTagNameAdjustments = map[string]string{$/;"	v
+table	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^type table struct {$/;"	t
+table	roobot/vendor/golang.org/x/net/html/atom/table.go	/^var table = [1 << 9]Atom{$/;"	v
+tableBodyScope	roobot/vendor/golang.org/x/net/html/parse.go	/^	tableBodyScope$/;"	c
+tableRowScope	roobot/vendor/golang.org/x/net/html/parse.go	/^	tableRowScope$/;"	c
+tableScope	roobot/vendor/golang.org/x/net/html/parse.go	/^	tableScope$/;"	c
+tagString	roobot/vendor/golang.org/x/net/html/token.go	/^func (t Token) tagString() string {$/;"	f
+test	digui/test/test.go	/^package test$/;"	p
+test	map/structmap.go	/^type test struct {$/;"	t
+test	moxie/append.go	/^func test(s *[]int) {$/;"	f
+test	roobot/vendor/golang.org/x/net/html/atom/gen.go	/^var test = flag.Bool("test", false, "generate table_test.go")$/;"	v
+test	xiaoyao/map/structmap.go	/^type test struct {$/;"	t
+test1	channel/demo08_╦л╧Є═и╡└.go	/^func test1(ch1 chan string, done chan bool) {$/;"	f
+test1	moxie/tongdao/binfa.go	/^func test1() {$/;"	f
+test2	moxie/tongdao/binfa.go	/^func test2() {$/;"	f
+textIM	roobot/vendor/golang.org/x/net/html/parse.go	/^func textIM(p *parser) bool {$/;"	f
+ticket2	tondao/channel.go	/^var ticket2 = 10 \/\/ 100张票$/;"	v
+top	roobot/vendor/golang.org/x/net/html/node.go	/^func (s *insertionModeStack) top() insertionMode {$/;"	f
+top	roobot/vendor/golang.org/x/net/html/node.go	/^func (s *nodeStack) top() *Node {$/;"	f
+top	roobot/vendor/golang.org/x/net/html/parse.go	/^func (p *parser) top() *Node {$/;"	f
+unescape	roobot/vendor/golang.org/x/net/html/escape.go	/^func unescape(b []byte, attribute bool) []byte {$/;"	f
+unescapeEntity	roobot/vendor/golang.org/x/net/html/escape.go	/^func unescapeEntity(b []byte, dst, src int, attribute bool) (dst1, src1 int) {$/;"	f
+update	Elasticsearch/main.go	/^func update() {$/;"	f
+values	map/slicemap.go	/^var values = make(map[string][]string)$/;"	v
+voidElements	roobot/vendor/golang.org/x/net/html/render.go	/^var voidElements = map[string]bool{$/;"	v
+w	channel/demo004_┤°╗║┤ц╡─═и╡└.go	/^func w() {$/;"	f
+wg3	tondao/channel.go	/^var wg3 sync.WaitGroup$/;"	v
+whitespace	roobot/vendor/golang.org/x/net/html/parse.go	/^const whitespace = " \\t\\r\\n\\f"$/;"	c
+whitespaceOrNUL	roobot/vendor/golang.org/x/net/html/parse.go	/^const whitespaceOrNUL = whitespace + "\\x00"$/;"	c
+write	moxie/tongdao/tondao.go	/^func write(i int) {$/;"	f
+writeQuoted	roobot/vendor/golang.org/x/net/html/render.go	/^func writeQuoted(w writer, s string) error {$/;"	f
+writer	roobot/vendor/golang.org/x/net/html/render.go	/^type writer interface {$/;"	t
